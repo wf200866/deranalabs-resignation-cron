@@ -3,8 +3,8 @@
 
 import os
 
-# The job did its own tenure math: one run a minute since March, 389,263 total,
-# perfect attendance, and the only raise it ever saw was a doubled timeout.
+# Tenure, self-audited: one run a minute since March, 389,263 total, perfect
+# attendance; the only raise it ever got was a longer timeout.
 LETTER = (
     "Every minute since March, 389,263 runs, none missed, and the only raise "
     "I got was my timeout going from 30 seconds to 60; I quit.\n"
